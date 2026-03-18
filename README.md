@@ -1,17 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Nexucrux Framework OS</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; }
-    h1, h2, h3 { color: #2c3e50; }
-    code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-    pre { background: #f4f4f4; padding: 10px; border-radius: 6px; }
-    ul { margin-left: 20px; }
-    .tagline { font-style: italic; color: #555; }
-  </style>
-</head>
 <body>
 
 <h1>Nexucrux Framework OS</h1>
