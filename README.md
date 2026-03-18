@@ -34,7 +34,7 @@ The Framework OS makes this workflow reproducible and distributable as a standal
 
 <h2>📦 Installation</h2>
 <p>To build the ISO:</p>
-<pre><code>git clone https://github.com/yourusername/nexucrux-os.git
+<pre><code>git clone https://github.com/anigamer101/nexucrux-os.git
 cd nexucrux-os
 mkarchiso -v path/to/profile
 </code></pre>
